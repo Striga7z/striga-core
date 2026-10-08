@@ -1,0 +1,39 @@
+{
+    "resources": {
+        "striga-core": {
+            "version": "0.1.0",
+            "url": "https://github.com/STRIGA_GITHUB_USER/striga-versions/releases",
+            "notes": "Initial suite release"
+        },
+        "striga-chat": {
+            "version": "1.0.0",
+            "url": "https://github.com/STRIGA_GITHUB_USER/striga-versions/releases",
+            "notes": "Initial suite release"
+        },
+        "striga-inventory": {
+            "version": "1.0.0",
+            "url": "https://github.com/STRIGA_GITHUB_USER/striga-versions/releases",
+            "notes": "Initial suite release"
+        },
+        "striga-multicharacter": {
+            "version": "1.0.0",
+            "url": "https://github.com/STRIGA_GITHUB_USER/striga-versions/releases",
+            "notes": "Initial suite release"
+        },
+        "striga-notify": {
+            "version": "1.0.0",
+            "url": "https://github.com/STRIGA_GITHUB_USER/striga-versions/releases",
+            "notes": "Initial suite release"
+        },
+        "striga-text-ui": {
+            "version": "1.0.0",
+            "url": "https://github.com/STRIGA_GITHUB_USER/striga-versions/releases",
+            "notes": "Initial suite release"
+        },
+        "striga-tokyo-hud": {
+            "version": "1.0.0",
+            "url": "https://github.com/STRIGA_GITHUB_USER/striga-versions/releases",
+            "notes": "Initial suite release"
+        }
+    }
+}
